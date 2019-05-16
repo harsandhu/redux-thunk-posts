@@ -1,3 +1,5 @@
+Sample project that uses redux-thunk to make async calls and fetch blogposts and users of the blogpost
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
